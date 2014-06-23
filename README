@@ -1,14 +1,17 @@
 
 
-This is a capture / backup of the Charity Programming Language source code and a few of the papers.  
+This is a capture / backup of the Charity Programming Language source code 
+and a few of the papers.  
 
-The original site at http://pll.cpsc.ucalgary.ca/charity1/www/home.html no longer has functioning links
-to any of the papers or downloads, so anyone curious about the Charity Programming Language might have
-a difficult time learning about it without any papers or the system itself.
+The original site at http://pll.cpsc.ucalgary.ca/charity1/www/home.html no 
+longer has functioning links to any of the papers or downloads, so anyone 
+curious about the Charity Programming Language might have a difficult time 
+learning about it without any papers or the system itself.
 
-This repo helps to fill that gap by providing the papers and source code.  No attempt has been made to
-actually compile the project.
+This repo helps to fill that gap by providing the papers and source code
+I was able to get my hands on.
 
-I (Dobes Vandermeer) am not in any way affiliated with the team who invented the Charity Programming
-Language, I am merely interested in it and provide these files for the benefit of others who are
-also interested.
+I (Dobes Vandermeer) am not in any way affiliated with the team who invented 
+the Charity Programming Language, I am merely interested in it and provide 
+these files for the benefit of others who are also interested.
+
