@@ -1,4 +1,10 @@
 
+Note:
+
+There is a more complete archive of Charity sources and papers
+available here: https://github.com/mietek/charity-language
+
+Background:
 
 This is a capture / backup of the Charity Programming Language source code 
 and a few of the papers.  
@@ -14,4 +20,5 @@ I was able to get my hands on.
 I (Dobes Vandermeer) am not in any way affiliated with the team who invented 
 the Charity Programming Language, I am merely interested in it and provide 
 these files for the benefit of others who are also interested.
+
 
